@@ -8,7 +8,7 @@ DNA from several species. The following alignments are included, so far:
    3. Populus tremula: 19 proteins
    
 ## Data format    
-The sequence alignments of protein-encoding DNA are given as RData to be loaded into R.
+The sequence alignments of protein-encoding DNA are given fasta format (*.fasta and *.fas).
  
    
 ## 1. Cancer genetic-susceptibility genes from 9 mammals.
