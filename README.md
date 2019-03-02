@@ -43,31 +43,31 @@ The alignment with the prediction of the ancestor states are provided as well. T
 the sofware MEGA6 (Tamura K., Stecher G., Peterson D., Filipski A., and Kumar S. (2013). MEGA6: Molecular Evolutionary Genetics Analysis version 6.0. Molecular Biology and Evolution30: 2725-2729). The guide tree and the description of the algorithm used is also given.
 
 ## 3. Populus tremula: 19 proteins
-    The dataset of DNA protein-encoding genes was derived in the study:
-	Ingvarsson PK. Natural selection on synonymous and nonsynonymous mutations shapes patterns of polymorphism in Populus tremula. Mol Biol Evol, 2010, 27:650–60.
+The dataset of DNA protein-encoding genes was derived in the study:
+ Ingvarsson PK. Natural selection on synonymous and nonsynonymous mutations shapes patterns of polymorphism in Populus tremula. Mol Biol Evol, 2010, 27:650–60.
 	
-	The autors deposited the datasetat GenBank/EMBL databases (accession numbers EU752500–EU754117).
-	Here, the multiple sequence alignments for the following proteins are provided.
+The autors deposited the datasetat GenBank/EMBL databases (accession numbers EU752500–EU754117).
+Here, the multiple sequence alignments for the following proteins are provided.
 
-	 1.  isolates: expressed protein genes                                                                  
-	 2.  putative protein gene                                                                   
-	 3.  ribonucleotide reductase beta subunit gene                                               
-	 4.  esterase lipase thioesterase gene                                                       
-	 5.  aspartyl protease gene                                                                  
-	 6.  C-x8-C-x5-C-x3-H type Zn-finger gene                                                    
-	 7.  casein kinase II regulatory subunit gene                                                
-	 8.  chalcone synthase gene                                                                  
-	 9.  cinnamyl alcohol dehydrogenase gene                                                     
-	10.  class Ib aminoacyl-tRNA synthetase gene                                                 		
-	11.  class V aminotransferase gene                                                           
-	12.  cytochrome P450 gene                                                                    
-	13.  G-D-S-L lipolytic enzyme gene                                                           
-	14.  heat shock protein Hsp20 gene                                                           
-	15.  isolate swl5-aut64 expressed protein gene                                               
-	16.  NAC domain protein gene                                                                 
-	17.  peptidase C1A papain gene                                                               
-	18.  serine threonine-specific protein phosphatase and bis(5-nucleosyl)-tetraphosphatase gene
-	19.  U5 snRNP-specific protein-like factor gene
+   1.  isolates: expressed protein genes                                                                  
+   2.  putative protein gene                                                                   
+   3.  ribonucleotide reductase beta subunit gene                                               
+   4.  esterase lipase thioesterase gene                                                       
+   5.  aspartyl protease gene                                                                  
+   6.  C-x8-C-x5-C-x3-H type Zn-finger gene                                                    
+   7.  casein kinase II regulatory subunit gene                                                
+   8.  chalcone synthase gene                                                                  
+   9.  cinnamyl alcohol dehydrogenase gene                                                     
+  10.  class Ib aminoacyl-tRNA synthetase gene                                                 		
+  11.  class V aminotransferase gene                                                           
+  12.  cytochrome P450 gene                                                                    
+  13.  G-D-S-L lipolytic enzyme gene                                                           
+  14.  heat shock protein Hsp20 gene                                                           
+  15.  isolate swl5-aut64 expressed protein gene                                               
+  16.  NAC domain protein gene                                                                 
+  17.  peptidase C1A papain gene                                                               
+  18.  serine threonine-specific protein phosphatase and bis(5-nucleosyl)-tetraphosphatase gene
+  19.  U5 snRNP-specific protein-like factor gene
 
 
 
