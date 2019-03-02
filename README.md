@@ -1,4 +1,4 @@
-# Welcome to *sealignments* R package
+# Welcome to *seqalignments* R package
 
 This package contains several sequence alignments of protein-encoding 
 DNA from several species. The following alignments are included, so far:
