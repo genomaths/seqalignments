@@ -69,6 +69,17 @@ Here, the multiple sequence alignments for the following proteins are provided.
   18.  serine threonine-specific protein phosphatase and bis(5-nucleosyl)-tetraphosphatase gene
   19.  U5 snRNP-specific protein-like factor gene
 
+## 4. Protein-coding DNA sequences of HIV1 ENV protein
+
+Multiple sequence aligment of ENV DNA sequences isolated from patient from 1997 to 2017. 
+
+The protein-coding DNA sequences were downloaded from the 
+[HIV sequence database](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html) at
+HIV DATABASES (https://www.hiv.lanl.gov/content/index).
+[Web Alignments](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html#web)
+were used, and manually corrected (not all the files). 
+
+The reference strain HXB2 is included on each FASTA file.
 
 
 
