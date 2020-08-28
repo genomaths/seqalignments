@@ -81,6 +81,36 @@ were used, and manually corrected (not all the files).
 
 The reference strain HXB2 is included on each FASTA file.
 
+## 5. Protein-coding DNA sequences from human genomes
+
+Multiple sequence aligments of 1016 human CDS references to protein-coding 
+regions from 16 human genomes:
+
+ 1. "GCA_000002115.2_genomic_genbank.fna.gz"
+ 2. "GCA_000002125.2_genomic_genbank.fna.gz"
+ 3. "GCA_000002135.3_genomic_genbank.fna.gz"
+ 4. "GCA_000212995.1_genomic_genbank.fna.gz"
+ 5. "GCA_000252825.1_genomic_genbank.fna.gz"
+ 6. "GCA_000306695.2_genomic_genbank.fna.gz"
+ 7. "GCA_000365445.1_genomic_genbank.fna.gz"
+ 8. "GCA_000442335.2_genomic_genbank.fna.gz"
+ 9. "GCA_001292825.2_genomic_genbank.fna.gz"
+10. "GCA_001524155.4_genomic_genbank.fna.gz"
+11. "GCA_001712695.1_genomic_genbank.fna.gz"
+12. "GCA_002077035.3_genomic_genbank.fna.gz"
+13. "GCA_002180035.3_genomic_genbank.fna.gz"
+14. "GCA_003634875.1_genomic_genbank.fna.gz"
+15. "GCA_009914755.1_genomic_genbank.fna.gz"
+16. "GCA_011064465.1_genomic_genbank.fna.gz"
+
+The blast match was accomplished on the positive strand.
+
+
+
+
+
+
+
 
 
 
