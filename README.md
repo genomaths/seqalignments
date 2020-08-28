@@ -103,7 +103,9 @@ regions from 16 human genomes:
 15. "GCA_009914755.1_genomic_genbank.fna.gz"
 16. "GCA_011064465.1_genomic_genbank.fna.gz"
 
-The blast match was accomplished on the positive strand.
+The blast match was accomplished on the positive strand. The list of CDS
+files carrying the corresponding aligments is carried in the file named 
+"cds_list.RData", which can be read in R.
 
 
 
