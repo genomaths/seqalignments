@@ -1,0 +1,19 @@
+Populus tremula expressed protein gene.fasta                                                                  
+Populus tremula putative protein gene.fasta                                                                   
+Populus_remula_ribonucleotide_reductase_beta_subunit_gene.fasta                                               
+Populus_tremula_aspartyl_protease_gene.fasta                                                                  
+Populus_tremula_C-x8-C-x5-C-x3-H_type_Zn-finger_gene.fasta                                                    
+Populus_tremula_casein_kinase_II_regulatory_subunit_gene.fasta                                                
+Populus_tremula_chalcone_synthase_gene.fasta                                                                  
+Populus_tremula_cinnamyl_alcohol_dehydrogenase_gene.fasta                                                     
+Populus_tremula_class_Ib_aminoacyl-tRNA_synthetase_gene.fasta                                                 
+Populus_tremula_class_V_aminotransferase_gene.fasta                                                           
+Populus_tremula_cytochrome_P450_gene.fasta                                                                    
+Populus_tremula_G-D-S-L_lipolytic_enzyme_gene.fasta                                                           
+Populus_tremula_heat_shock_protein_Hsp20_gene.fasta                                                           
+Populus_tremula_isolate_swl5-aut64_expressed_protein_gene.fasta                                               
+Populus_tremula_NAC_domain_protein_gene.fasta                                                                 
+Populus_tremula_peptidase_C1A_papain_gene.fasta                                                               
+Populus_tremula_serine_threonine-specific_protein_phosphatase_and_bis(5-nucleosyl)-tetraphosphatase_gene.fasta
+Populus_tremula_U5_snRNP-specific_protein-like_factor_gene.fasta                                              
+Populus_tremula-esterase_lipase_thioesterase_gene.fasta  
