@@ -110,9 +110,10 @@ negative strand. The list of CDS files carrying the corresponding aligments is
 carried in the file named "cds_list.RData" and "cds_list_minus_strand",
 which can be read in R.
 
+## 6. Alignments of human reference CDS to Protein-coding DNA sequences
 
-
-
+Multiple sequence aligments of 931 human CDS references to protein-coding 
+regions from non-redundant nucleotide NCBI database (09/16/2020).
 
 
 
