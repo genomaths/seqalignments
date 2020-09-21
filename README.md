@@ -106,13 +106,16 @@ regions from 16 human genomes:
 Two subfolder are included plus_strand and minus_strand containing the 
 corresponding aligments to the positive and negative strands.  That is,
 the blast match was independently accomplished on the positive strand and
-negative strand. The list of CDS files carrying the corresponding aligments is
-carried in the file named "cds_list.RData" and "cds_list_minus_strand",
-which can be read in R.
+negative strand. The list of alignment fasta files are given in the files 
+named "cds_list.RData" and "cds_list_minus_strand", which can be read in R.
 
+## 6. Alignments of human reference CDS to Protein-coding DNA sequences
 
+Multiple sequence aligments of 931 human CDS references to protein-coding 
+regions from non-redundant nucleotide NCBI database (09/16/2020).
 
-
+The list of alignment fasta files are given in the files 
+named "cds_aligned_files.RData" and "cds_aligned_files.txt", which can be read in R.
 
 
 
