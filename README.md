@@ -117,7 +117,7 @@ regions from non-redundant nucleotide NCBI database (09/16/2020).
 The list of alignment fasta files are given in the files 
 named "cds_aligned_files.RData" and "cds_aligned_files.txt", which can be read in R.
 
-## 6. HIV-1 Protein-coding DNA sequences
+## 7. HIV-1 Protein-coding DNA sequences
 
 Curated HIV-1 sequence alignments downloaded from 
 [HIV sequence database](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html).
@@ -125,6 +125,7 @@ Curated HIV-1 sequence alignments downloaded from
 The list of alignment fasta files are given in the files 
 named hiv1_aligned_files.RData and hiv1_aligned_files.txt
 
-The sequences, from all the HIV-1 genes, are from 2012 to 2018.
+The protein-coding DNA sequences, from all the HIV-1 genes, were isolated from patients, 
+covering the year from 2007 to 2018.
       
   
