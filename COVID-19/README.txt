@@ -1,1 +1,1 @@
-Pairwise sequence alignment of
+This file contains the pairwise sequence alignment of SARS coronavirus GZ02 (GenBank: AY390556.1: 265-13398_13398-21485) and Bat SARS-like coronavirus isolate bat-SL-CoVZC45 (GenBank: MG772933.1:265-1345513455-21542), complete genomes.
