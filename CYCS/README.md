@@ -6,6 +6,8 @@ The alignment was made by the NCBI Multiple Sequence Alignment Viewer, Version 1
 
 In R you can read the sequence from GitHub typing:
 ```{r read}
+library(Biostrings)
+
 url <- paste0("https://github.com/genomaths/seqalignments/raw/master/CYCS/",
               "primate_cytochrome_c_(CYCS)_18_sequences.fasta")
 
