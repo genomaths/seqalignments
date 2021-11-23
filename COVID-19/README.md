@@ -1,9 +1,22 @@
 ## Pairwise sequence alignments of SARS coronaviruses
 This folder contains a fasta file with the pairwise sequence alignment of:
 
-i. SARS coronavirus GZ02 (GenBank: AY390556.1: 265-13398_13398-21485) and Bat
+**i. SARS coronavirus GZ02 (GenBank: AY390556.1: 265-13398_13398-21485) and Bat
 SARS-like coronavirus isolate bat-SL-CoVZC45 (GenBank:
-MG772933.1:265-1345513455-21542), nonstructural_polyprotein.      
+MG772933.1:265-1345513455-21542), nonstructural_polyprotein.**  
+
+This alignment can be read into R typing:
+```{r fasta, message=FALSE}
+library(Biostrings)
+
+URL <- paste0("https://github.com/genomaths/seqalignments/raw/master/", 
+        "COVID-19/AY390556.1_265-13398_13398-21485_RNA-POL_SARS_COVI_GZ02.fas")
+
+covid_aln <- readDNAMultipleAlignment(filepath = URL)
+```
+
+**ii. Protein-coding regions from SARS coronavirus GZ02 (GenBank: **AY390556.1**) and
+Bat SARS-like coronavirus isolate Rs7327 (GenBank: KY417151.1).**
 
 _**AY390556.1_protein-coding**_            
 1. AY390556.1_cds_AAS00002.1_1 [gene=orf1ab] [protein=nonstructural polyprotein]     [exception=ribosomal slippage] [protein_id=AAS00002.1] [location=join(265..13398,13398..21485)] [gbkey=CDS] 1 - 21225   
@@ -22,10 +35,7 @@ This alignment can be read into R typing:
 library(Biostrings)
 
 URL <- paste0("https://github.com/genomaths/seqalignments/raw/master/", 
-        "COVID-19/AY390556.1_265-13398_13398-21485_RNA-POL_SARS_COVI_GZ02.fas")
+        "COVID-19/AY390556.1_and_KY417151.1_aligned_protein-coding.fas")
 
 covid_aln <- readDNAMultipleAlignment(filepath = URL)
 ```
-
-ii. Protein-coding regions from SARS coronavirus GZ02 (GenBank: AY390556.1) and
-Bat SARS-like coronavirus isolate Rs7327 (GenBank: KY417151.1).
