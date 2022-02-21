@@ -128,4 +128,12 @@ named hiv1_aligned_files.RData and hiv1_aligned_files.txt
 The protein-coding DNA sequences, from all the HIV-1 genes, were isolated from patients, 
 covering the year from 2007 to 2018.
       
-  
+## 8. Phospholipase B domain containing-2 (PLBD2)
+
+DNA sequence alignment of the protein-coding sequences from phospholipase B
+domain containing-2 (PLBD2) carrying the footprint sequence motif recognized
+(targeted) by the Silencing Transcription factor (REST), also known as
+Neuron-Restrictive Silencer Factor (NRSF) REST (NRSF)
+
+
+
