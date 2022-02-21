@@ -135,5 +135,21 @@ domain containing-2 (PLBD2) carrying the footprint sequence motif recognized
 (targeted) by the Silencing Transcription factor (REST), also known as
 Neuron-Restrictive Silencer Factor (NRSF) REST (NRSF)
 
+The aligned sequences are:
+1. NM_001159727.2:54-83_Homo_sapiens
+2. XM_019950502.2:111-140_Tursiops_truncatus
+3. XM_033408778.1:115-144_Orcinus_orca
+4. XM_032876216.1:91-120_Lontra_canadensis
+5. XM_032602682.1:115-144_Phocoena_sinus
+6. XM_032310131.1:107-136_Mustela_erminea
+7. LR738414.1:88042426-88042455_Lutra_lutra
+8. XM_030860450.1:112-141_Globicephala_melas
+9. XM_030821458.1:66-95_Nomascus_leucogenys
+10. XM_022550731.2:109-138_Delphinapterus_leucas
+11. XM_030336151.1:55-84_Lynx_canadensis
+12. XM_029922190.1:78-107_Suricata_suricatta
+13. XM_015152887.2:74-103_Macaca_mulatta
+
+
 
 
