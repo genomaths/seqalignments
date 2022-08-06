@@ -1,5 +1,5 @@
-# Multiple Sequence Alignment of Primate Cystocrome c
-These sequences were obtained with the NCBI BLAST search using Homo sapiens cytochrome c (somatic) as query sequence.
+# Multiple Sequence Alignment of Primate BRCA1
+These sequences were obtained with the NCBI BLAST search using Homo sapiens BRCA1 as query sequence.
 
 The alignment was made by the NCBI Multiple Sequence Alignment Viewer, Version 1.20.1.
 <img src="https://raw.githubusercontent.com/genomaths/seqalignments/master/BRCA1/brca1.png" align="center" />
@@ -15,7 +15,7 @@ brca1_aln <- readDNAMultipleAlignment(filepath = url)
 brca1_aln
 ```
 
-The cytochrome c names are:
+The BRCA1 names are:
 ```{r names}
 strtrim(rownames(brca1_aln), 100)
 ```
