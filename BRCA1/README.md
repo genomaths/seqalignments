@@ -42,3 +42,5 @@ These sequences can be labeled (shortly) as:
 18. "*golden_monkey_2*"
 19. "*gelada_baboon*"
 20. "*bolivian_monkey*"
+
+The fasta file with 41 DNA sequences contains the previous 20 primate variants plus 21 single mutation variants from the human sequence NM_007298 transcript variant 4.
