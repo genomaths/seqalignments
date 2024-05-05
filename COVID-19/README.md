@@ -55,5 +55,13 @@ covid_aln <- readDNAMultipleAlignment(filepath = URL)
 
 A multiple sequence alignment 84 mutational variants of the S surface glycoprotein from the Severe Scute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).
 
+```{r s}
+library(GenomAutomorphism)
+library(Biostrings)
 
+URL <- paste0("https://github.com/genomaths/seqalignments/raw/master/", 
+        "COVID-19/spike_raw_84_surface_glycoprotein_covid.fasta")
+
+covid_aln <- readAAMultipleAlignment(filepath = URL)
+```
 
