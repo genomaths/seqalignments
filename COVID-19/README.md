@@ -51,3 +51,9 @@ URL <- paste0("https://github.com/genomaths/seqalignments/raw/master/",
 
 covid_aln <- readDNAMultipleAlignment(filepath = URL)
 ```
+## Multiple Sequence alignment of SARS-CoV-2 S surface glycoprotein
+
+A multiple sequence alignment 84 variants of the S surface glycoprotein from the Severe Scute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).
+
+
+
